@@ -7,6 +7,7 @@
             padding: 0;
             text-align: center;
         }
+        
         h1 {
             text-align: center;
             width: 100%;
@@ -49,9 +50,9 @@
         }
 
         main {
-            padding: 2em;
+        padding: 2em;
         }
-
+                
         footer {
             color: #fff;
             background-color: #2d607f;
